@@ -16,6 +16,7 @@
 		1458F3731A8AF51400AB04D6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1458F3711A8AF51400AB04D6 /* LaunchScreen.xib */; };
 		1458F37F1A8AF51400AB04D6 /* MeadiaCarmerTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1458F37E1A8AF51400AB04D6 /* MeadiaCarmerTestTests.m */; };
 		1458F38A1A8AF5C100AB04D6 /* Media_Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1458F3891A8AF5C100AB04D6 /* Media_Photo.m */; };
+		147780031A8DB70F004854A5 /* TestTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 147780021A8DB70F004854A5 /* TestTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,8 @@
 		1458F37E1A8AF51400AB04D6 /* MeadiaCarmerTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeadiaCarmerTestTests.m; sourceTree = "<group>"; };
 		1458F3881A8AF5C100AB04D6 /* Media_Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Media_Photo.h; sourceTree = "<group>"; };
 		1458F3891A8AF5C100AB04D6 /* Media_Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Media_Photo.m; sourceTree = "<group>"; };
+		147780011A8DB70F004854A5 /* TestTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTableViewController.h; sourceTree = "<group>"; };
+		147780021A8DB70F004854A5 /* TestTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				1458F3641A8AF51400AB04D6 /* AppDelegate.m */,
 				1458F3691A8AF51400AB04D6 /* ViewController.h */,
 				1458F36A1A8AF51400AB04D6 /* ViewController.m */,
+				147780011A8DB70F004854A5 /* TestTableViewController.h */,
+				147780021A8DB70F004854A5 /* TestTableViewController.m */,
 				1458F3881A8AF5C100AB04D6 /* Media_Photo.h */,
 				1458F3891A8AF5C100AB04D6 /* Media_Photo.m */,
 				1458F36C1A8AF51400AB04D6 /* Main.storyboard */,
@@ -230,6 +235,7 @@
 				1458F3681A8AF51400AB04D6 /* MeadiaCarmerTest.xcdatamodeld in Sources */,
 				1458F3651A8AF51400AB04D6 /* AppDelegate.m in Sources */,
 				1458F38A1A8AF5C100AB04D6 /* Media_Photo.m in Sources */,
+				147780031A8DB70F004854A5 /* TestTableViewController.m in Sources */,
 				1458F36B1A8AF51400AB04D6 /* ViewController.m in Sources */,
 				1458F3621A8AF51400AB04D6 /* main.m in Sources */,
 			);
@@ -426,6 +432,7 @@
 				1458F3841A8AF51400AB04D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1458F3851A8AF51400AB04D6 /* Build configuration list for PBXNativeTarget "MeadiaCarmerTestTests" */ = {
 			isa = XCConfigurationList;
@@ -434,6 +441,7 @@
 				1458F3871A8AF51400AB04D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
